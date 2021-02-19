@@ -1,0 +1,86 @@
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.exe.config
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.exe
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Newtonsoft.Json.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\System.Interactive.Async.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Newtonsoft.Json.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\System.Interactive.Async.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.csprojResolveAssemblyReference.cache
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.Form1.resources
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.Properties.Resources.resources
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.csproj.GenerateResource.Cache
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.exe
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.dll
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.pdb
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.xml
+D:\Lập trình\Windows\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.WelcomeForm.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\TuDienOnline.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.PlatformServices.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Newtonsoft.Json.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\System.Interactive.Async.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Api.Gax.Rest.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Auth.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Core.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Storage.v1.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Apis.Translate.v2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Storage.V1.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Google.Cloud.Translation.V2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\Newtonsoft.Json.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\bin\Debug\System.Interactive.Async.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.Form1.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.WelcomeForm.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\TuDienOnline_RESTfulAPI-tracau.vn\TuDienOnline\TuDienOnline\obj\Debug\TuDienOnline.csproj.GenerateResource.Cache

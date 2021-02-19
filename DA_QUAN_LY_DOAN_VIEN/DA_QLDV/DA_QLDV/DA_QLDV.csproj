@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C25DC0A7-6360-41DC-AE00-7635D28DBBEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DA_QLDV</RootNamespace>
+    <AssemblyName>DA_QLDV</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=14.1.0.36, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.36, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_Doanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Doanvien.Designer.cs">
+      <DependentUpon>Form_Doanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TimKiemDoanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TimKiemDoanVien.Designer.cs">
+      <DependentUpon>Form_TimKiemDoanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="My_Database.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Doanvien.resx">
+      <DependentUpon>Form_Doanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TimKiemDoanVien.resx">
+      <DependentUpon>Form_TimKiemDoanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeThong32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanhMuc16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuanLy16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thoat16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QLSinhVien16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doanphi16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Folder1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Construction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chuc năng.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doan.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon_159.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buddy-Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buddy-Green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuanLy161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bouée.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgHeader.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QLSinhVien161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QLSinhVien162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuanLy162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doanphi161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Construction1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra cuu 16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TraCuuSinhVien16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ĐOÀN TNCS HCM-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KHOA ĐT CHẤT LƯỢNG CAO-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artboard 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artboard 11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_159.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đồng hồ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\in an.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đồng hồ1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_159.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gear-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gear-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh rang %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh rang %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\in an1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

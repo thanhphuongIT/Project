@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CHAT</title>
+        <script src="jquery.js"></script>
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="hand.js"></script>
+        <link rel="stylesheet" type="text/css" href="layout.css"/>
+    </head>
+    <body>
+         <div id="wrapper">
+            <div id="loginform">
+                <h3>WHAT'S YOUR NAME ?</h3>
+                <input type="text" id="txtUsername" />
+                <input type="button" value="Reply" id="btnreply" />
+                <input type="button" value="Request" id="btnrequest" />
+            </div>
+            <div id="request-form">
+                    <div id="lisRequest"></div>
+                    <input type="text" id="txtRequest" />
+                    <input type="button" value="SENT REQUEST" id="btnsentRequest" />
+            </div>
+            <div id="reply-form">
+                <div id="left">
+                    <div id="boxTitle">List Request</div>
+                    <div id="boxContent"></div>
+                </div>
+                <div id="right">
+                    <div id="listMessages"></div>
+                    <input type="text" id="txtMessage" />
+                    <input type="button" id="btnSentMessage" value="SENT" />
+                    <input type="button" id="btnsentimage" value="SENT IMAGE" />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,500 @@
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.From_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.From_Login.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_CBChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_CBChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_CBChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\Dự phòng\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Taotaikhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\EPPlus.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\EPPlus.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csproj.ResolveComReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\itextsharp.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\bin\Debug\itextsharp.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV - Copy\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_11h30\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVien.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVien.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+\\192.168.43.95\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV_18_5_ Tối\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongTinPhanMem.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\EPPlus.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\itextsharp.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_MainChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhauChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuatChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhiChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DanhGiaChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVienChiDoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongTinPhanMem.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeGioiTinhDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_ThongKeXepLoaiDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyTaiKhoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachBiThu.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TaoTaiKhoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_DoiMatKhau.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienBiKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVienChuaDongDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhSachDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanPhi.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_QuanLyKyLuat.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_XuatDanhGia.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Xuatdanhgiachidoan.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\Interop.WMPLib.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\AxInterop.WMPLib.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\Interop.WMPLib.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\AxInterop.WMPLib.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.ResolveComReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Huongdan.resources
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\Interop.WMPLib.dll
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\AxInterop.WMPLib.dll
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.ResolveComReference.cache
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\A.PHONG VAN\DA_QLDV_19_5\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb

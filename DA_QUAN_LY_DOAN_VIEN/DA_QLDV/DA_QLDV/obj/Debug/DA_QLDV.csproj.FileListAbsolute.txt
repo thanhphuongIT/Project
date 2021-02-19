@@ -1,0 +1,84 @@
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.From_Login.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+C:\Users\BAMBOO\Downloads\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.From_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\BAI TAP\DA_QLDV\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.From_Login.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV (1)\DA_QLDV\obj\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojAssemblyReference.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CoreCompileInputs.cache
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.CopyComplete
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+F:\HK2 - Năm 2\Lập trình Windows\Đồ án cuối kì\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe.config
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.exe
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DA_QLDV.pdb
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csprojResolveAssemblyReference.cache
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Doanvien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_TimKiemDoanVien.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Form_Login.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Main.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.Properties.Resources.resources
+E:\THANHPHUONG\LAP TRINH WINDOW\DO_AN\DA_QLDV (1)\DA_QLDV\DA_QLDV\obj\Debug\DA_QLDV.csproj.GenerateResource.Cache
